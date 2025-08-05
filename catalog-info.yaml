@@ -27,7 +27,7 @@ metadata:
     backstage.io/kubernetes-id: artist-service
     backstage.io/kubernetes-namespace: artist-service
     backstage.io/kubernetes-label-selector: app=artist-service
-    jira.com/project-key: KAN
+    jira.com/project-key: INSH
     jira.com/incoming-issues-status: To Do
 spec:
   type: service
